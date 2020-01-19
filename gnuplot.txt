@@ -1,0 +1,3 @@
+cd 'c:\Users\MisioNeos\Desktop\studia\3 semestr\prm\prm_model_isinga\model_isinga'
+plot "dataN6.txt" with points, "dataN10.txt" with points, "dataN20.txt" with points
+plot "dataN63D.txt" with points, "dataN103D.txt" with points, "dataN203D.txt" with points
